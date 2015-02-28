@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15640" started-at="2015-02-28T10:57:19Z" finished-at="2015-02-28T10:57:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15640" started-at="2015-02-28T10:57:19Z" finished-at="2015-02-28T10:57:35Z">
+      <class name="com.selenium.google_search_tests.GoogleTests">
+        <test-method status="PASS" signature="launchURL()[pri:0, instance:com.selenium.google_search_tests.GoogleTests@7fe9a140]" name="launchURL" is-config="true" duration-ms="12041" started-at="2015-02-28T10:57:19Z" finished-at="2015-02-28T10:57:31Z">
+        </test-method> <!-- launchURL -->
+        <test-method status="PASS" signature="googleSearchTest()[pri:0, instance:com.selenium.google_search_tests.GoogleTests@7fe9a140]" name="googleSearchTest" duration-ms="3462" started-at="2015-02-28T10:57:31Z" finished-at="2015-02-28T10:57:35Z">
+        </test-method> <!-- googleSearchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.google_search_tests.GoogleTests@7fe9a140]" name="tearDown" is-config="true" duration-ms="128" started-at="2015-02-28T10:57:35Z" finished-at="2015-02-28T10:57:35Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.google_search_tests.GoogleTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
